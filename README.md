@@ -36,6 +36,7 @@ Jeune diplômé de **Licence en Informatique & Télécommunications** à l'INSTI
 - **Électricité bâtiment** - Bases solides
 - **Électronique embarquée** - Systèmes intelligents
 - **Git & GitHub** - Gestion de versions
+- **draw.io** pour la modélisation 
 
 ## 🎓 Formation
 
