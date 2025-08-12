@@ -5,7 +5,7 @@
 Jeune diplômé de **Licence en Informatique & Télécommunications** à l'INSTI-Lokossa, Mono, Bénin 🇧🇯, passionné par les nouvelles technologies et le développement d'applications web et mobile. **Dynamique, curieux et rigoureux**, j'allie créativité et esprit d'équipe pour concevoir et développer des solutions innovantes.
 
 - 💻 Je travaille actuellement sur des **projets NoCode** et des **applications mobiles**
-- 📚 J'apprends le **développement mobile** avec **Flutter** et **React-Native**
+- 📚 J'apprends le **développement mobile** avec **Flutter** et **React-Native** puis sur la création des app web vitrines avec **React**
 - 🤝 Je cherche à collaborer sur des **projets innovants** et **solutions automatisées**
 - 💬 Parlons de **développement web/mobile**, **UI/UX Design**, **NoCode** ou **innovation tech**
 - ✨ Fun fact : J'ai participé à un mini-hackathon et développé une app pour restaurant !
