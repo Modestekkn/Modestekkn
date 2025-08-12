@@ -2,7 +2,7 @@
 
 ## 🚀 À propos de moi
 
-Jeune diplômé de **Licence en Informatique & Télécommunications** à l'INSTI-Lokossa 🇧🇯, passionné par les nouvelles technologies et le développement d'applications web et mobile. **Dynamique, curieux et rigoureux**, j'allie créativité et esprit d'équipe pour concevoir et développer des solutions innovantes.
+Jeune diplômé de **Licence en Informatique & Télécommunications** à l'INSTI-Lokossa, Mono, Bénin 🇧🇯, passionné par les nouvelles technologies et le développement d'applications web et mobile. **Dynamique, curieux et rigoureux**, j'allie créativité et esprit d'équipe pour concevoir et développer des solutions innovantes.
 
 - 💻 Je travaille actuellement sur des **projets NoCode** et des **applications mobiles**
 - 📚 J'apprends le **développement mobile** avec **Flutter** et **React-Native**
