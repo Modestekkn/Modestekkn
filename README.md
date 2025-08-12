@@ -53,7 +53,8 @@ const parcours = {
 ## 💼 Projets & Réalisations
 
 ### **Alerte Conduite** (Projet de Soutenance)
-- **Technologies :** JavaScript, Géolocalisation, APIs
+- **Technologies :** Flutter, Dart, Géolocalisation et d'autres packages 
+- **Matériels électronique :** Châssis, driver L298N, Module NEO-7M, Module Ble
 - **Description :** Système d'alerte intelligent pour la conduite
 - **Contexte :** Projet final de licence à l'INSTI
 - **Impact :** Amélioration de la sécurité routière
@@ -73,11 +74,6 @@ const parcours = {
 - **Technologies :** PHP, MySQL, APIs REST
 - **Description :** Système de gestion pour librairie en ligne
 - **Objectif :** Digitalisation des processus métier
-
-### **Biereterie**
-- **Technologies :** Web/Mobile
-- **Description :** Application pour la gestion de brasserie
-- **Innovation :** Solution secteur agroalimentaire
 
 ## 🏢 Expérience Professionnelle
 
