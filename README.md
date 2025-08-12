@@ -1,20 +1,142 @@
-- 👋 Hi, I’m @Modestekkn
-- 👀 I’m interested in by development web and android application
-- 🌱 I’m currently learning more language for programmation front-end and back-end.
-  <ul>
-  <p>Il s'agit de :</p>
-  <li>HTML et CSS</li>
-  <li>JavaScript</li>
-  <li>PHP et MySQL</li>
-  <li>Java</li>
-  <li>Python</li>
-</ul>
-- 💞️ I’m looking to collaborate on ... <br>
-- 📫 How to reach me   <br>
-- 😄 Pronouns: ...  <br>
-- ⚡ Fun fact: ... <br>
+# 👋 Salut, je suis **Mahutin Modeste KOUAKANOU**
 
-<!---
-Modestekkn/Modestekkn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 À propos de moi
+
+Jeune diplômé de **Licence en Informatique & Télécommunications** à l'INSTI-Lokossa 🇧🇯, passionné par les nouvelles technologies et le développement d'applications web et mobile. **Dynamique, curieux et rigoureux**, j'allie créativité et esprit d'équipe pour concevoir et développer des solutions innovantes.
+
+- 💻 Je travaille actuellement sur des **projets NoCode** et des **applications mobiles**
+- 📚 J'apprends le **développement mobile** avec **Flutter** et **React-Native**
+- 🤝 Je cherche à collaborer sur des **projets innovants** et **solutions automatisées**
+- 💬 Parlons de **développement web/mobile**, **UI/UX Design**, **NoCode** ou **innovation tech**
+- ✨ Fun fact : J'ai participé à un mini-hackathon et développé une app pour restaurant !
+
+## 🛠️ Stack Technologique
+
+### 🎨 Design UI/UX
+- **Figma** - Design d'interfaces modernes
+- **Canva** - Création graphique & Flyer & présentation PPTX
+- **Adobe XD** - Prototypage UX/UI
+
+### 🌐 Développement Web
+- **HTML/CSS/JavaScript** - Frontend 
+- **PHP & MySQL** - Backend 
+- **React** - Applications interactives
+- **Webflow** - Sites web visuels
+
+### 📱 Développement Mobile
+- **Dart & Flutter** - Apps cross-platform
+- **React-Native** - Applications mobiles
+
+### 💡 NoCode/LowCode
+- **Bubble.io** - Applications web sans code
+- **FlutterFlow** - Apps mobiles visuelles
+- **Webflow** - Sites web professionnels
+
+### ➕ Autres Compétences
+- **Électricité bâtiment** - Bases solides
+- **Électronique embarquée** - Systèmes intelligents
+- **Git & GitHub** - Gestion de versions
+
+## 🎓 Formation
+
+```javascript
+const parcours = {
+    actuel: "Licence Informatique & Télécommunications",
+    etablissement: "INSTI - Lokossa",
+    periode: "Oct 2022 - Juil 2025",
+    specialisation: ["Développement web/mobile", "UI/UX Design", "NoCode"],
+    baccalaureat: "Série D - Mention Bien (2022)"
+};
+```
+
+## 💼 Projets & Réalisations
+
+### **Alerte Conduite** (Projet de Soutenance)
+- **Technologies :** JavaScript, Géolocalisation, APIs
+- **Description :** Système d'alerte intelligent pour la conduite
+- **Contexte :** Projet final de licence à l'INSTI
+- **Impact :** Amélioration de la sécurité routière
+
+### **Restauqr** (Mini-Hackathon Celtiis)
+- **Technologies :** Développement mobile
+- **Description :** Mini-application pour restaurant
+- **Contexte :** Hackathon de 3 jours (09-11 Dec 2024)
+- **Équipe :** Projet collaboratif innovant
+
+### **Poubelle Automatique**
+- **Technologies :** Électronique embarquée, Automatisation
+- **Description :** Conception et réalisation d'une poubelle intelligente
+- **Focus :** IoT et systèmes automatisés
+
+### **API Gestion Librairie**
+- **Technologies :** PHP, MySQL, APIs REST
+- **Description :** Système de gestion pour librairie en ligne
+- **Objectif :** Digitalisation des processus métier
+
+### **Biereterie**
+- **Technologies :** Web/Mobile
+- **Description :** Application pour la gestion de brasserie
+- **Innovation :** Solution secteur agroalimentaire
+
+## 🏢 Expérience Professionnelle
+
+### **Stagiaire Développement NoCode** - SOLUTECH UNIVERS
+*Mars - Juin 2025 | Cotonou, Bénin*
+- Création de **workflows automatisés** avec Bubble.io et Webflow
+- Développement d'application de **gestion des tickets**
+- Maîtrise des plateformes **NoCode avancées**
+
+### **Stagiaire Électricité & Électronique** - NOVA TECH BENIN
+*Dates de stage | Porto-Novo, Bénin*
+- Acquisition de bases en **électricité bâtiment**
+- Initiation à l'**électronique embarquée**
+- Compréhension des **systèmes automatisés**
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Modestekkn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=fr&hide_border=false"
+        height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Modestekkn&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false"
+        height="150" alt="languages graph" />
+</div>
+
+## 🤝 Collaborations & Opportunités
+
+Je suis ouvert à :
+- 🌐 **Projets web innovants** avec React/PHP
+- 📱 **Applications mobiles** avec Flutter
+- 🎨 **Missions UI/UX Design** avec Figma
+- 🚀 **Solutions NoCode** avec Bubble.io/FlutterFlow
+- ⚡ **Projets IoT** et automatisation
+- 🏆 **Hackathons** et défis techniques
+
+## 🗣️ Langues
+- 🇫🇷 **Français** : Courant
+- 🇬🇧 **Anglais** : Basique
+
+## 📧 Me contacter
+
+<div align="center">
+
+    [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kouakanoumodeste88@gmail.com)
+    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Modestekkn)
+    [![Phone](https://img.shields.io/badge/Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+22901902063433)
+
+    **📍 Localisation :** Adjarra, Ouémé, Bénin 🇧🇯
+
+</div>
+
+---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Modestekkn&color=blue&style=flat-square&label=Visiteurs"
+        alt="Profile views" />
+</div>
+
+<div align="center">
+
+    ### 💫 *"Allier créativité et esprit d'équipe pour concevoir des solutions innovantes"*
+
+</div>
+
