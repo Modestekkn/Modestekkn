@@ -117,11 +117,11 @@ Je suis ouvert à :
 
 <div align="start">
 
-- 📧 [Email](mailto:kouakanoumodeste88@gmail.com)
-- 🐙 [GitHub](https://github.com/Modestekkn)
-- 📞 [Téléphone (WhatsApp)](tel:+22901902063433)
+- [Email](mailto:kouakanoumodeste88@gmail.com)
+- [GitHub](https://github.com/Modestekkn)
+- [Téléphone (WhatsApp)](tel:+22901902063433)
 
-**📍 Localisation :** Adjarra, Ouémé, Bénin 🇧🇯
+**📍 Localisation :** BP 111 Adjarra, Ouémé, Bénin 🇧🇯
 
 </div>
 
