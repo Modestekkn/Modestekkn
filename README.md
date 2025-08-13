@@ -116,11 +116,15 @@ Je suis ouvert à :
 
 <div align="center">
 
-    [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kouakanoumodeste88@gmail.com)
-    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Modestekkn)
-    [![Phone](https://img.shields.io/badge/Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+22901902063433)
+<div align="center">
 
-    **📍 Localisation :** Adjarra, Ouémé, Bénin 🇧🇯
+- 📧 [Email](mailto:kouakanoumodeste88@gmail.com)
+- 🐙 [GitHub](https://github.com/Modestekkn)
+- 📞 [Téléphone (WhatsApp)](tel:+22901902063433)
+
+**📍 Localisation :** Adjarra, Ouémé, Bénin 🇧🇯
+
+</div>
 
 </div>
 
