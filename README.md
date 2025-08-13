@@ -114,17 +114,14 @@ Je suis ouvert à :
 
 ## 📧 Me contacter
 
-<div align="center">
 
-<div align="center">
+<div align="start">
 
 - 📧 [Email](mailto:kouakanoumodeste88@gmail.com)
 - 🐙 [GitHub](https://github.com/Modestekkn)
 - 📞 [Téléphone (WhatsApp)](tel:+22901902063433)
 
 **📍 Localisation :** Adjarra, Ouémé, Bénin 🇧🇯
-
-</div>
 
 </div>
 
