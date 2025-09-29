@@ -1,42 +1,50 @@
 # 👋 Salut, je suis **Mahutin Modeste KOUAKANOU**
 
-## 🚀 À propos de moi
+## À propos de moi
 
 Jeune diplômé de **Licence en Informatique & Télécommunications** à l'INSTI-Lokossa, Mono, Bénin 🇧🇯, passionné par les nouvelles technologies et le développement d'applications web et mobile. **Dynamique, curieux et rigoureux**, j'allie créativité et esprit d'équipe pour concevoir et développer des solutions innovantes.
 
-- 💻 Je travaille actuellement sur des **projets NoCode** et des **applications mobiles**
-- 📚 J'apprends le **développement mobile** avec **Flutter** et **React-Native** puis sur la création des app web vitrines avec **React**
-- 🤝 Je cherche à collaborer sur des **projets innovants** et **solutions automatisées**
-- 💬 Parlons de **développement web/mobile**, **UI/UX Design**, **NoCode** ou **innovation tech**
-- ✨ Fun fact : J'ai participé à un mini-hackathon et développé une app pour restaurant !
+-  Je travaille actuellement sur des **applications web modernes** avec **React** et **Next.js**
+-  Je maîtrise le **développement full-stack** avec **React**, **Next.js**, **PostgreSQL** et **Supabase**
+-  J'utilise **Tailwind CSS** et **shadcn/ui** pour créer des interfaces élégantes
+-  Je cherche à collaborer sur des **projets innovants** et **solutions automatisées**
+-  Parlons de **développement web/mobile**, **UI/UX Design**, **NoCode** ou **innovation tech**
+-  Fun fact : J'ai participé à un mini-hackathon et développé une app pour restaurant !
 
-## 🛠️ Stack Technologique
+## Stack Technologique
 
-### 🎨 Design UI/UX
+### Développement Web Frontend
+- **React** - Bibliothèque JavaScript moderne
+- **Next.js** - Framework React full-stack
+- **Tailwind CSS** - Framework CSS utility-first
+- **shadcn/ui** - Composants UI réutilisables
+- **HTML/CSS/JavaScript** - Technologies de base
+
+### Développement Backend & Base de données
+- **Next.js API Routes** - Backend moderne
+- **PHP & MySQL** - Développement serveur traditionnel
+- **PostgreSQL** - Base de données relationnelle avancée
+- **Supabase** - Backend-as-a-Service (Auth, DB, Storage)
+
+### Design UI/UX
 - **Figma** - Design d'interfaces modernes
 - **Canva** - Création graphique & Flyer & présentation PPTX
 - **Adobe XD** - Prototypage UX/UI
 
-### 🌐 Développement Web
-- **HTML/CSS/JavaScript** - Frontend 
-- **PHP & MySQL** - Backend 
-- **React** - Applications interactives
-- **Webflow** - Sites web visuels
-
-### 📱 Développement Mobile
+### Développement Mobile
 - **Dart & Flutter** - Apps cross-platform
 - **React-Native** - Applications mobiles
 
-### 💡 NoCode/LowCode
+### NoCode/LowCode
 - **Bubble.io** - Applications web sans code
 - **FlutterFlow** - Apps mobiles visuelles
 - **Webflow** - Sites web professionnels
 
-### ➕ Autres Compétences
+### 🔧 Outils & Autres Compétences
+- **Git & GitHub** - Gestion de versions et collaboration
+- **draw.io** - Modélisation et diagrammes
 - **Électricité bâtiment** - Bases solides
 - **Électronique embarquée** - Systèmes intelligents
-- **Git & GitHub** - Gestion de versions
-- **draw.io** pour la modélisation 
 
 ## 🎓 Formation
 
@@ -46,11 +54,12 @@ const parcours = {
     etablissement: "INSTI - Lokossa",
     periode: "Oct 2022 - Juil 2025",
     specialisation: ["Développement web/mobile", "UI/UX Design", "NoCode"],
+    stackActuelle: ["React", "Next.js", "PostgreSQL", "Supabase", "Tailwind CSS"],
     baccalaureat: "Série D - Mention Bien (2022)"
 };
 ```
 
-## 💼 Projets & Réalisations
+## Projets & Réalisations
 
 ### **Alerte Conduite** (Projet de Soutenance)
 - **Technologies :** Flutter, Dart, Géolocalisation et d'autres packages 
@@ -75,7 +84,7 @@ const parcours = {
 - **Description :** Système de gestion pour librairie en ligne
 - **Objectif :** Digitalisation des processus métier
 
-## 🏢 Expérience Professionnelle
+## Expérience Professionnelle
 
 ### **Stagiaire Développement NoCode** - SOLUTECH UNIVERS
 *Mars - Juin 2025 | Cotonou, Bénin*
@@ -84,12 +93,12 @@ const parcours = {
 - Maîtrise des plateformes **NoCode avancées**
 
 ### **Stagiaire Électricité & Électronique** - NOVA TECH BENIN
-*Dates de stage | Porto-Novo, Bénin*
+*Porto-Novo, Bénin*
 - Acquisition de bases en **électricité bâtiment**
 - Initiation à l'**électronique embarquée**
 - Compréhension des **systèmes automatisés**
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Modestekkn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=fr&hide_border=false"
@@ -98,22 +107,22 @@ const parcours = {
         height="150" alt="languages graph" />
 </div>
 
-## 🤝 Collaborations & Opportunités
+## Collaborations & Opportunités
 
 Je suis ouvert à :
-- 🌐 **Projets web innovants** avec React/PHP
-- 📱 **Applications mobiles** avec Flutter
-- 🎨 **Missions UI/UX Design** avec Figma
-- 🚀 **Solutions NoCode** avec Bubble.io/FlutterFlow
-- ⚡ **Projets IoT** et automatisation
-- 🏆 **Hackathons** et défis techniques
+-  **Applications web modernes** avec React/Next.js
+-  **Projets full-stack** avec PostgreSQL/Supabase
+-  **Applications mobiles** avec Flutter
+-  **Missions UI/UX Design** avec Figma et Tailwind CSS
+-  **Solutions NoCode** avec Bubble.io/FlutterFlow
+-  **Projets IoT** et automatisation
+-  **Hackathons** et défis techniques
 
-## 🗣️ Langues
+## Langues
 - 🇫🇷 **Français** : Courant
 - 🇬🇧 **Anglais** : Basique
 
 ## 📧 Me contacter
-
 
 <div align="start">
 
@@ -134,7 +143,6 @@ Je suis ouvert à :
 
 <div align="center">
 
-    ### 💫 *"Allier créativité et esprit d'équipe pour concevoir des solutions innovantes"*
+### 💫 *"Allier créativité et esprit d'équipe pour concevoir des solutions innovantes"*
 
 </div>
-
